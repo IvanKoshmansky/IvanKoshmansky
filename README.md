@@ -9,7 +9,7 @@ It was necessary to write a small application that monitors data
 from special measuring devices for the needs of the service department.
 The application was written and tested in operation.
 Then I decided to improve my practical skills and implement for this
-several PetProjects.
+several pet projects.
 The first application monitors information about SpaceX launches,
 and the second, which is currently under development,
 will allow you to view the layout of rooms and interiors for Planner5D projects
