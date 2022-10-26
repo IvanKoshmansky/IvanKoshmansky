@@ -1,6 +1,6 @@
 ### Hi everyone, I'm Ivan.
 I became interested in android development in 2020.
-I have completed several educational courses
+I completed several educational courses
 where I learned the basics of mobile development and examples of writing
 applications according to the patterns and architecture recommended by google.
 My practical development began with an optional assignment,
